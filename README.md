@@ -1,7 +1,7 @@
 # Act6_widgets1240
 
 - Pantalla 1
-- ![image](https://github.com/user-attachments/assets/4d82e94a-6f8a-486b-ac1e-8ae3db024824)
+- ![image](https://github.com/user-attachments/assets/6c387c6a-dd29-4a9f-811b-de834fbadd0d)
 
 - Pantalla 2
 - ![image](https://github.com/user-attachments/assets/36ecde6b-c5db-42a8-8cd5-68f12dc625b8)
